@@ -1,5 +1,7 @@
-last_seo_boost=2026-08-08T06:47:10Z
+last_seo_boost=2026-08-08T06:55:19Z
 slug=a-akuoko-machine-intelligence
-platforms=github+pages+huggingface
+platforms=huggingface+github+pages
+prefer=huggingface
+hf=https://huggingface.co/0001AMA/a-akuoko-machine-intelligence
 public=true
 purpose=machine-intelligence-technical-profile
